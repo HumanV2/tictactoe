@@ -44,7 +44,7 @@ class ViewController: UIViewController {
         //If placing the marker wasn't successful, change the status message, so the user knows what's wrong
         
     }
-    
+    //commit
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -54,7 +54,6 @@ class ViewController: UIViewController {
                   [bottomLeft, bottomMiddle, bottomRight]]
 
     }
-
 
 }
 
